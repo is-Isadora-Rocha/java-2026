@@ -12,7 +12,7 @@ public class Arraeis {
         String[] nomes = {"Ana", "Bia", "Caio"};
 
         //o tamanho
-        int[] notas2 = new int[4];  // [0, 0, 0, 0]
+        int[] notas2 = new int[4];  //posição 4 [0, 0, >>0<<, 0]
 
         System.out.println(notas[0]);
         System.out.println(notas[3]);
