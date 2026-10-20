@@ -1,4 +1,4 @@
-package exercise;
+package exercise.matriz_arrays;
 
 public class CarAssemble {
 
